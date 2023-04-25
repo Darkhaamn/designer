@@ -1,7 +1,7 @@
-# Demo Portfolio
+# Демо-портфолио
 
 | ![](screenshots/homepage.png)| ![](screenshots/about.png) |![](screenshots/portfolio.png)|
 |:---:|:---:|:---:|
-| **Home**  | **About**  | **Portfolio** |
+| **Главная**  | **О нас**  | **Портфолио** |
 |![](screenshots/blog.png) | ![](screenshots/blog-details.png)| ![](screenshots/contact.png)|
-| **Blog** | **Blog Details** | **Contact** |
+| **Блог** | **Подробности Блога** | **Контакт** |
